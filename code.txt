@@ -1,0 +1,20 @@
+https://min-api.cryptocompare.com/data/v2/histominute?fsym=BTC&tsym=USDT&limit=100&toTs=-1&api_key=YOURKEYHERE
+(<in ro to browser bezan 100 min akhar ro behet mide>)
+    
+
+((((mplfinance)eik class khoooob)))
+
+
+
+
+  /$$$$$$  /$$$$$$$  /$$    /$$ /$$$$$$ /$$   /$$
+ /$$__  $$| $$__  $$| $$   | $$|_  $$_/| $$$ | $$
+| $$  \ $$| $$  \ $$| $$   | $$  | $$  | $$$$| $$
+| $$$$$$$$| $$$$$$$/|  $$ / $$/  | $$  | $$ $$ $$
+| $$__  $$| $$__  $$ \  $$ $$/   | $$  | $$  $$$$
+| $$  | $$| $$  \ $$  \  $$$/    | $$  | $$\  $$$
+| $$  | $$| $$  | $$   \  $/    /$$$$$$| $$ \  $$
+|__/  |__/|__/  |__/    \_/    |______/|__/  \__/
+                                                 
+                                                 
+                                                 
