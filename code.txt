@@ -1,5 +1,5 @@
 https://min-api.cryptocompare.com/data/v2/histominute?fsym=BTC&tsym=USDT&limit=100&toTs=-1&api_key=YOURKEYHERE
-(<in ro to browser bezan 100 min akhar ro behet mide>)
+(<in ro to browser bezan 100 min akhar ro behet mide>)=>(bala tarin meghdar 2000)
     
 
 ((((mplfinance)eik class khoooob)))
